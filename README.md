@@ -18,3 +18,7 @@
 
     Navigate into your new site’s directory and open the `index.html` file in your browser.
     _Note: with more time to play around I would have sorted out hotreloading as well as a little server to run the index.html on a port as this would be required for hotreloading.
+
+    or navigate to :
+
+    `https://blaizeliebs.github.io/index.html`
